@@ -32,7 +32,7 @@ jobs:
       with:
         fetch-depth: 0
     # - uses: managedkaos/github-actions-two-actions/action1@master
-    - uses: bcgov/smk-actions/smk-build@master
+    - uses: bcgov/smk-actions/smk-build@main
       id: buildSMKContainer
       
 
